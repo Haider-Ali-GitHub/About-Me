@@ -9,6 +9,7 @@ I'm currently learning Java, Python, and C, as well as various web development f
 💼 Skills and Experience
 
  Languages: Java, Python, C, HTML, CSS, JavaScript, SQL
+
  Frameworks and Tools: React, Angular, Vue.js, Node.js, Express.js, Spring, Git, AWS, Agile, DevOps
  
 🤝 Collaboration 
