@@ -1,12 +1,19 @@
-Hi there, I'm Haider Ali 👋 - I'm a software development enthusiast who is passionate about web design and computer programming. I enjoy creating and developing new software applications that solve real-world problems.
+Hi there, I'm Haider Ali 👋 
 
-🌱 Currently learning - I'm currently learning Java, Python, and C, as well as various web development frameworks such as React, Angular and Vue.js. I'm also exploring different software development methodologies, such as Agile and DevOps.
+I'm a software development enthusiast who is passionate about web design and computer programming. I enjoy creating and developing new software applications that solve real-world problems.
+
+🌱 Currently learning 
+
+I'm currently learning Java, Python, and C, as well as various web development frameworks such as React, Angular and Vue.js. I'm also exploring different software development methodologies, such as Agile and DevOps.
 
 💼 Skills and Experience
+
  Languages: Java, Python, C, HTML, CSS, JavaScript, SQL
  Frameworks and Tools: React, Angular, Vue.js, Node.js, Express.js, Spring, Git, AWS, Agile, DevOps
+ 
+🤝 Collaboration 
 
-🤝 Collaboration - I'm always looking to collaborate on interesting projects with other developers. I believe that working together on a project can create better results  than working alone. Feel free to reach out if you're interested in working together or if you want to discuss any software development related topic.
+I'm always looking to collaborate on interesting projects with other developers. I believe that working together on a project can create better results  than working alone. Feel free to reach out if you're interested in working together or if you want to discuss any software development related topic.
 
 📫 Contact me
  You can reach me at haider.ali07304@gmail.com. Let's connect!
